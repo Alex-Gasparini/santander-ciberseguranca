@@ -1,0 +1,3 @@
+Descrição da resolução do desafio:
+
+Criado um script em python com uso de Keylogger para captação de teclas pressionadas no teclado da máquina vitima, com isso é disparado um email com todos os logs referentes as teclas.
